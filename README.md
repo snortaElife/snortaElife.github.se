@@ -1,1 +1,0 @@
-# snortaElife.github.se
